@@ -1,2 +1,4 @@
-# Card-Game-AI
-Final project for CSCI-B351 Artificial Intelligence
+# B351FinalProject
+
+Team member:
+Tian Jin(tianjin), Bokai Zhuang(bzhuang), Yitian Zhang(yitizhan)
